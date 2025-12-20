@@ -4,12 +4,12 @@
 
 ### Examples:
 
-Input: n = 12
-Output: 2
-Explanation: 12 has 2 digits
+- Input: n = 12
+- Output: 2
+- Explanation: 12 has 2 digits
 
 ---
 
-Input: n = 456
-Output: 3
-Explanation: 456 has 3 digits
+- Input: n = 456
+- Output: 3
+- Explanation: 456 has 3 digits
