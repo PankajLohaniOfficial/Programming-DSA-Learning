@@ -1,4 +1,4 @@
-## You are given an integer n. Your task is to reverse the digits, ensuring that the reversed number has no leading zeroes.
+## Problem: You are given an integer n. Your task is to reverse the digits, ensuring that the reversed number has no leading zeroes.
 
 ---
 
